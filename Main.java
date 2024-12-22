@@ -1,4 +1,5 @@
 import demo.*;
+import tugas.OperatorAritmatik;
 
 class Main {
   public static void main(String[] args) {
@@ -30,6 +31,11 @@ class Main {
     // percabangan.demoIf();
     // percabangan.demoIfElse();
     // percabangan.demoSwitchCase();
+
+    OperatorAritmatik operatorAritmatik = new OperatorAritmatik();
+    
+    // Menjalankan konde yang ada di file OperatorAritmatik pada folder tugas
+    operatorAritmatik.menghitungFaktorial();
 
   }
 }
