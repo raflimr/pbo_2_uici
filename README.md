@@ -6,8 +6,12 @@
 ---
 
 ## Deskripsi Tugas
-Buatlah akun di [Replit.com](https://replit.com), kemudian praktikkan kembali materi praktikum di pertemuan ke-2 pada tautan berikut: [https://replit.com/@hynra/PBO-2](https://replit.com/@hynra/PBO-2). Beri komentar pada setiap baris semampu pemahaman Anda. Submit tugas dalam bentuk link ke repl di akun Replit Anda. 
 
+Buat sebuah program sederhana yang mendemonstrasikan operator-operator aritmatik dengan menggunakan tipe data Integer, diberi komentar pada tiap baris kode (Referensi di pertemuan ke-2). Tugas dikirim dalam bentuk link repl di akun Replit Anda
+
+Referensi:
+<ul> https://www.petanikode.com/java-operator/ </ul>
+<ul> https://replit.com/@hynra/PBO-2 </ul>
 ---
 
 ## Petunjuk Menjalankan Kode dengan GitHub Codespaces
